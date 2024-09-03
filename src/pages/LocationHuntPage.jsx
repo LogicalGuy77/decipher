@@ -37,6 +37,14 @@ const LocationHuntPage = () => {
           determine the correct location from a set of possibilities using the
           given password or hint.
         </p>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        >
+          Don't click on it. This doesn't serve any purpose. Our developers just
+          wanted to be funny. You've been warned!
+        </a>
       </section>
 
       <section className="location-hunt-puzzle">
