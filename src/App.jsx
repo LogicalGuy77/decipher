@@ -18,7 +18,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/location-hunt" element={<LocationHuntPage />} />
+          <Route path="/" element={<LocationHuntPage />} />
           <Route path="/decipher-page" element={<DecipherPage />} />
           <Route path="/binary-ip-address" element={<BinaryIPAddressPage />} />
           <Route path="/caesar-cipher" element={<CaesarCipherPage />} />
